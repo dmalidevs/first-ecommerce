@@ -1,0 +1,54 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size:14px;
+}
+.accordion-header,
+.accordion-item{
+	font-size:14px!important;
+}
+.accordion-button:not(.collapsed) {
+	font-weight:bold;
+}
+.bg-red-deep-footer{
+	background-color:rgba(0,0,0,0.2);
+}
+.carousel-control-prev span:hover,
+.carousel-control-next span:hover{
+	background-color: #d31a22;
+    	color: #fff!important;
+}
+
+/* Hover part */
+main a:hover,
+footer a:hover{
+	color:#d31a22!important;
+}
+#featured button.active{
+	color:red!important;
+}
+.hover-btn-red:hover{
+	background-color:#d31a22!important;
+	border-color:#d31a22!important;
+	color:white!important;
+}
+.hover-btn-dark:hover{
+	background-color:#495057!important;
+	border-color:#495057!important;
+	color:white!important;
+}
+.hover-border-red:hover.card{
+	border:1px solid #d31a22!important;
+}
+.hover-border-warning:hover.card{
+	border:2px solid #ffdd00!important;
+}
+.mb-n4{
+	margin-bottom:-40px;
+}
+.group-hover:hover .hover-mb-n4{
+	margin-bottom:0px;
+}
+#side-info .side:hover{
+	margin-right:-50px;
+	color:red;
+}

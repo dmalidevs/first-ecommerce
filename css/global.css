@@ -1,0 +1,85 @@
+/* =======================================================
+================== Global Css ============================
+======================================================== */
+
+section{
+	padding-top:100px;
+	padding-bottom:75px;
+}
+.bg-red{
+	background-color:#d31a22!important;
+}
+.bg-deep-red{
+	background-color:rgb(203, 32, 39)!important;
+}
+.bg-blue{
+	background-color:rgb(59, 89, 152)!important;
+}
+.text-red{
+	color:red!important;
+}
+
+/* --- height --- */
+.h-1{
+	height:.25rem!important;
+}
+.h-2{
+	height:.5rem!important;
+}
+.h-3{
+	height:1rem!important;
+}
+.h-4{
+	height:1.5rem!important;
+}
+.h-5{
+	height:2rem!important;
+}
+.h-6{
+	height:2.5rem!important;
+}
+.h-7{
+	height:3rem!important;
+}
+.h-8{
+	height:3.5rem!important;
+}
+.h-10{
+	height:8rem!important;
+}
+
+/* --- Width --- */
+.w-1{
+	width:.25rem!important;
+}
+.w-2{
+	width:.5rem!important;
+}
+.w-3{
+	width:1rem!important;
+}
+.w-4{
+	width:1.5rem!important;
+}
+.w-5{
+	width:2rem!important;
+}
+.w-6{
+	width:2.5rem!important;
+}
+.w-7{
+	width:3rem!important;
+}
+.w-8{
+	width:3.5rem!important;
+}
+.w-10{
+	width:8rem;
+}
+
+.placeholder-sm::placeholder{
+	font-size:.9rem;
+}
+.lh-3{
+	line-height:2.5rem;
+}
